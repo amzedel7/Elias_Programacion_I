@@ -2,7 +2,7 @@
 using system;
 static void Main()
 {
-Console.WriteLine("Elias estuvo aqui");
+Console.WriteLine("Erick estuvo aqui");
 
 }
 
