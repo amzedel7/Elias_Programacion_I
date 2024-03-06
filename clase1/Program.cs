@@ -2,7 +2,7 @@
 using system;
 static void Main()
 {
-Console.WriteLine("Erick estuvo aqui");
+Console.WriteLine("Erick estuvo aqui 2 veces");
 
 }
 
