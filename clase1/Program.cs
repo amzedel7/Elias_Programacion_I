@@ -3,6 +3,7 @@
 using system;
 static void Main()
 {
+<<<<<<< HEAD
 Console.WriteLine("HOLA, MUNDO!");
 Console.WriteLine("cambio");
 =======
@@ -57,6 +58,10 @@ namespace HelloWorld
     }                
   }
 >>>>>>> Stashed changes
+=======
+Console.WriteLine("Erick estuvo aqui 2 veces");
+
+>>>>>>> 7f2d3311fd36b3a74b3b6e76b3020443abbe44a6
 }
 
 
