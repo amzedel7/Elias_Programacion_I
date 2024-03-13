@@ -7,9 +7,15 @@ namespace HelloWorld
     static void Main(string[] args)
     {
         int [] vector = {2,4,6,8,10,9,15,18};
+<<<<<<< Updated upstream
         sumavector(vector); 
         MultiploTres(vector);
         Array.Sort(vector);                  
+=======
+        Console.WriteLine("este es el vector");
+        sumavector(vector); 
+        MultiploTres(vector);                         
+>>>>>>> Stashed changes
     }
 
     static void sumavector(int[]vector){
@@ -39,8 +45,18 @@ namespace HelloWorld
         }
         Console.WriteLine("el vector tiene: " + multiplo + " multiplos de 3");
         Console.ReadKey();
+<<<<<<< Updated upstream
     }
     
+=======
+        }
+    static void nuevoNumero(int[]vector)
+        
+        {
+            int vector = 0;
+            
+        }
+>>>>>>> Stashed changes
   }
 }
 
